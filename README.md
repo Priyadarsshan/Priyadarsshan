@@ -13,6 +13,6 @@ I'm a Software Developer | Data Analyst
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyadarsshan&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=priyadarsshan&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
